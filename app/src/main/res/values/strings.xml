@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">A1</string>
     <string name="button_text">Click on me</string>
+    <string name="logo_text">Calculator</string>
+    <string name="hint">Enter first number</string>
+    <string name="hint2">Enter second number</string>
 </resources>
