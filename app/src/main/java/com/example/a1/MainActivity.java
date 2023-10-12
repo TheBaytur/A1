@@ -12,8 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //Checking push
-    //Check user
-    //git
-    //button
+    //Calculator
 }
